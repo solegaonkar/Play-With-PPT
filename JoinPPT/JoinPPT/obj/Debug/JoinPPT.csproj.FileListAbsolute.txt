@@ -1,0 +1,9 @@
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\obj\Debug\JoinPPT.csproj.ResolveComReference.cache
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\obj\Debug\JoinPPT.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\obj\Debug\JoinPPT.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\bin\Debug\JoinPPT.exe
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\bin\Debug\JoinPPT.pdb
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\obj\Debug\JoinPPT.exe
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\obj\Debug\JoinPPT.pdb
+D:\Visual Studio 2008\Projects\JoinPPT\JoinPPT\obj\Debug\JoinPPT.JoinPpt.resources

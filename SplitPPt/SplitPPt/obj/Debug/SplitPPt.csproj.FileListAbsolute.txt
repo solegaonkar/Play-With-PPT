@@ -1,0 +1,9 @@
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\bin\Debug\SplitPPt.exe
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\bin\Debug\SplitPPt.pdb
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\obj\Debug\SplitPPt.csproj.ResolveComReference.cache
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\obj\Debug\SplitPPt.SplitPpt.resources
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\obj\Debug\SplitPPt.Properties.Resources.resources
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\obj\Debug\SplitPPt.csproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\obj\Debug\SplitPPt.exe
+D:\Visual Studio 2008\Projects\SplitPPt\SplitPPt\obj\Debug\SplitPPt.pdb
